@@ -35,3 +35,8 @@ cl /EHsc /utf-8 "program.cpp"
 ```
 g++ "program.cpp" -o "program"
 ```
+Исходные тексты программ храню в системе «Windows 10», а компилятору «g++» в системе «Ubuntu» (через «WSL 2») можно передать путь к файлу, хранящемуся в системе «Windows 10», примерно таким образом:
+```
+"/mnt/c/Users/Илья/source/repos/learncpp/program.cpp"
+```
+Это для файла `C:\Users\Илья\source\repos\learncpp\program.cpp`.
