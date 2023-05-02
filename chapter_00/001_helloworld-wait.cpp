@@ -2,6 +2,7 @@
 
 // helloworld-wait.cpp
 // добавление ожидания в конец программы на языке C++
+// (понадобится два нажатия на клавишу «Enter»)
 
 #include <iostream>
 #include <limits>
