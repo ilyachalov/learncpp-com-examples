@@ -22,7 +22,7 @@
 ```
 В системе «Ubuntu» (через «WSL 2») никакой предварительной настройки не требуется.
 
-Для работы с программами-оболочками я использую программу-«эмулятор терминала» «[Windows Terminal](https://ru.wikipedia.org/wiki/Windows_Terminal)» (предполагается, что эта программа заменит устаревающую «Windows Console»).
+Для работы с программами-оболочками я использую программу-«эмулятор терминала» «[Windows Terminal](https://ru.wikipedia.org/wiki/Windows_Terminal)» (предполагается, что эта программа заменит устаревающую «[Windows Console](https://en.wikipedia.org/wiki/Windows_Console)»).
 
 ## Ключи компиляторов
 
