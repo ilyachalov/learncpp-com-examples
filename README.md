@@ -43,3 +43,4 @@ g++ "program.cpp" -o "program"
 
 ## Совместимость с текущей версией стандарта языка C++
 
+По умолчанию компилятор MSVC настроен для работы с версией C++14 стандарта ([тут подробнее](https://learn.microsoft.com/en-us/cpp/build/reference/std-specify-language-standard-version)), а компилятор «g++» (GCC)&nbsp;— с версией C++17 стандарта ([тут подробнее](https://gcc.gnu.org/onlinedocs/gcc-11.3.0/gcc/Standards.html#C_002b_002b-Language)).
