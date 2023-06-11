@@ -64,3 +64,14 @@ cl /EHsc /utf-8 /std:c++20 /W4 "program.cpp"
 ```
 g++ "program.cpp" -o "program" -std=c++20 -Wall
 ```
+
+## Компиляция многофайловых программ
+
+Я использую следующие команды для компиляции многофайловых программ:
+
+```
+cl /EHsc /utf-8 /std:c++20 /W4 "file1.cpp" "file2.cpp" /link /out:"program.exe"
+```
+```
+g++ "file1.cpp" "file2.cpp" -o "program" -std=c++20 -Wall
+```
