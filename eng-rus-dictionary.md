@@ -31,6 +31,7 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z
 | int |  | тип данных, сокращение от слова «integer» |
 | integer | целое число, целочисленный | слово «целый» или «целое» для перевода неудобно использовать |
 | letter | буква | один из видов символов |
+| macro | макрокоманда, макрос | википедия: [макрокоманда](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D1%80%D0%BE%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0), [macro](https://en.wikipedia.org/wiki/Macro_(computer_science)) |
 | namespace | пространство имён | википедия: [пространство имён](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE_%D0%B8%D0%BC%D1%91%D0%BD_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)) |
 | operation | операция |  |
 | operator | оператор | знак (обозначение) операции, может состоять из одного или нескольких символов |
