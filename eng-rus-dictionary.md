@@ -27,6 +27,7 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z
 | expression | выражение |  |
 | expression statement | утверждение-выражение | Один из видов утверждений. Выражение, превращенное в утверждение добавлением точки с запятой `;` после выражения. Например, выражение `2 + 3` можно превратить в утверждение-выражение `2 + 3;`. |
 | forward declaration | предварительное объявление | википедия: [предварительное объявление](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%B2%D0%B0%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5) |
+| header guard | защита от дублирующих подключений | википедия: [#include guard](https://ru.wikipedia.org/wiki/Include_guard) (на русском), [#include guard](https://en.wikipedia.org/wiki/Include_guard) (на английском) |
 | instruction | инструкция |  |
 | int |  | тип данных, сокращение от слова «integer» |
 | integer | целое число, целочисленный | слово «целый» или «целое» для перевода неудобно использовать |
