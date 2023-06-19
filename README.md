@@ -81,4 +81,5 @@ g++ "file1.cpp" "file2.cpp" -o "program" -std=c++20 -Wall
 ## Полезные ссылки
 
 - [Руководство пользователя](https://gcc.gnu.org/onlinedocs/gcc/) к набору компиляторов GCC (GNU Compiler Collection);
-- [Справочник (cppreference.com)](https://en.cppreference.com) по языку программирования C++.
+- [Справочник (cppreference.com)](https://en.cppreference.com) по языку программирования C++;
+- [Документация на сайте компании «Microsoft»](https://learn.microsoft.com/en-us/cpp/) (инструменты, справочники, руководства и так далее) по языку C++.
