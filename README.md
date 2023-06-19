@@ -77,3 +77,7 @@ cl /EHsc /utf-8 /std:c++20 /W4 "file1.cpp" "file2.cpp" /link /out:"program.exe"
 ```
 g++ "file1.cpp" "file2.cpp" -o "program" -std=c++20 -Wall
 ```
+
+## Полезные ссылки
+
+- [Руководство пользователя](https://gcc.gnu.org/onlinedocs/gcc/) к набору компиляторов GCC (GNU Compiler Collection).
