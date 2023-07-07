@@ -47,3 +47,19 @@ cl /EHsc /utf-8 /std:c++20 /W4 "file1.cpp" "file2.cpp" /link /out:"program.exe"
 ```
 g++ "file1.cpp" "file2.cpp" -o "program" -std=c++20 -Wall
 ```
+
+## Указание дополнительных путей к включаемым (`#include`) файлам
+
+Указание дополнительного _абсолютного_ пути с помощью [опции](https://learn.microsoft.com/en-us/cpp/build/reference/i-additional-include-directories) `/I` компилятора MSVC в операционной системе «Windows 10»:
+```
+cl /EHsc /utf-8 /std:c++20 /W4 /I"C:\Users\Илья\source\repos\learncpp" "program.cpp" /link /out:"program.exe"
+```
+Указание дополнительного _относительного_ пути (указана текущая папка с помощью символа точки `.`) с помощью опции `/I` компилятора MSVC в операционной системе «Windows 10»:
+```
+cl /EHsc /utf-8 /std:c++20 /W4 /I"." "program.cpp" /link /out:"program.exe"
+```
+Указание дополнительного пути с помощью [опции](https://gcc.gnu.org/onlinedocs/gcc/Directory-Options.html) `-I` компилятора g++ (GCC) в операционной системе «Ubuntu»:
+```
+ilya@IlyaComp:~/learncpp$ g++ -I"/mnt/c/Users/Илья/source/repos/learncpp" "/mnt/c/Users/Илья/source/repos/learncpp/program.cpp" -o "program" -std=c++20 -Wall
+```
+Опция `-I` компилятора g++ (GCC) тоже может принимать как абсолютные, так и относительные пути. Но в моем случае для компилятора g++ (GCC) мне приходится указывать только абсолютные пути, так как исходный код я храню в файловой системе операционной системы «Windows 10».
