@@ -58,3 +58,9 @@ g++ "program.cpp" -o "program"
 - [Руководство пользователя](https://gcc.gnu.org/onlinedocs/gcc/) к набору компиляторов GCC (GNU Compiler Collection);
 - [Справочник (cppreference.com)](https://en.cppreference.com) по языку программирования C++;
 - [Документация на сайте компании «Microsoft»](https://learn.microsoft.com/en-us/cpp/) (инструменты, справочники, руководства и так далее) по языку программирования C++.
+
+_Для вопросов по программированию:_
+
+- [Stack Overflow](https://stackoverflow.com) — на английском языке;
+- [Stack Overflow на русском](https://ru.stackoverflow.com) — на русском языке;
+- [Хабр Q&A](https://qna.habr.com) — на русском языке.
