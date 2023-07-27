@@ -58,7 +58,7 @@ g++ "program.cpp" -o "program"
 _Язык программирования C++:_
 
 - [Справочник (cppreference.com)](https://en.cppreference.com) по языку программирования C++;
-- [wg21.link/std](wg21.link/std) — открыть (скачать) черновик текущей версии стандарта C++ в формате PDF;
+- [wg21.link/std](https://wg21.link/std) — открыть (скачать) черновик текущей версии стандарта C++ в формате PDF;
 - [eel.is/c++draft/](https://eel.is/c++draft/) — черновик текущей версии стандарта C++ в формате HTML (неофициальный источник, автор&nbsp;— [@Eelis](https://github.com/Eelis)).
 
 _Инструменты:_
