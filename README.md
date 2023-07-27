@@ -55,7 +55,14 @@ g++ "program.cpp" -o "program"
 
 ## Полезные ссылки
 
+_Язык программирования C++:_
+
 - [Справочник (cppreference.com)](https://en.cppreference.com) по языку программирования C++;
+- [wg21.link/std](wg21.link/std) — открыть (скачать) черновик текущей версии стандарта C++ в формате PDF;
+- [eel.is/c++draft/](https://eel.is/c++draft/) — черновик текущей версии стандарта C++ в формате HTML (неофициальный источник, автор&nbsp;— [@Eelis](https://github.com/Eelis)).
+
+_Инструменты:_
+
 - [Руководство пользователя](https://gcc.gnu.org/onlinedocs/gcc/) к набору компиляторов GCC (GNU Compiler Collection);
 - [Документация на сайте компании «Microsoft»](https://learn.microsoft.com/en-us/cpp/) (инструменты, справочники, руководства и так далее) по языку C++;
 - [Документация редактора кода «Visual Studio Code»](https://code.visualstudio.com/docs);
