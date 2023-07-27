@@ -40,4 +40,4 @@ a = b · q + r       // формула
 
 ## Полезные ссылки
 
-https://math.stackexchange.com — для вопросов по математике (на английском языке).
+- [math.stackexchange.com](https://math.stackexchange.com) — для вопросов по математике (на английском языке).
