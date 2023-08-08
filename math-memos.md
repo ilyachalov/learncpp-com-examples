@@ -42,6 +42,18 @@ a = b · q + r       // формула
 (a / b) * b + a % b == a
 ```
 
+## Изучение чисел с плавающей запятой
+
+- Статья «[Что нужно знать про арифметику с плавающей запятой](https://habr.com/ru/articles/112953/)» на «Хабре» от 2011 года;
+- Пост «[Как начать изучение чисел с плавающей запятой](https://ilyachalov.livejournal.com/344968.html)» в моем блоге;
+- [https://floating-point-gui.de](https://floating-point-gui.de) — сайт на английском языке.
+
+_Веб-сервисы для изучения чисел с плавающей запятой:_
+
+- [http://evanw.github.io/float-toy/](http://evanw.github.io/float-toy/);
+- [https://bartaz.github.io/ieee754-visualization/](https://bartaz.github.io/ieee754-visualization/);
+- [https://float.exposed](https://float.exposed/).
+
 ## Названия больших чисел
 
 Возьмем для примера диапазон значений 64-битных целых без знака:
