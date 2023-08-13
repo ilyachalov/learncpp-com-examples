@@ -26,12 +26,15 @@
 
 Перед запуском исполняемых файлов в системе «Windows 10» в программах-оболочках требуется предварительное переключение активной кодовой страницы на кодовую страницу с номером 65001 (UTF-8). Вот какие команды можно для этого использовать:
 
-1. В программе-оболочке «cmd.exe»: `chcp 65001`.
+1. В программе-оболочке «cmd.exe»: `chcp 65001` (я ввожу эту команду вручную в начале сеанса работы с «cmd.exe»);
 2. В программах-оболочках «PowerShell» (версии 7 и выше) или в «Windows PowerShell» (версии 5.1):
-```
-[System.Console]::InputEncoding = [System.Text.Encoding]::UTF8
-[System.Console]::OutputEncoding = [System.Text.Encoding]::UTF8
-```
+   
+   ```
+   [System.Console]::InputEncoding = [System.Text.Encoding]::UTF8
+   [System.Console]::OutputEncoding = [System.Text.Encoding]::UTF8
+   ```
+   Эти команды для программы-оболочки «PowerShell» удобно прописать в [профиле](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_profiles) пользователя (после этого не нужно будет вводить эти команды вручную в начале сеанса работы с «PowerShell»).
+
 В системе «Ubuntu» (через «WSL 2») никакой предварительной настройки не требуется.
 
 Для работы с программами-оболочками я использую программу-«эмулятор терминала» «[Windows Terminal](https://ru.wikipedia.org/wiki/Windows_Terminal)» (предполагается, что эта программа заменит устаревающую «[Windows Console](https://en.wikipedia.org/wiki/Windows_Console)»).
