@@ -43,3 +43,10 @@
 - [Fundamental types](https://en.cppreference.com/w/cpp/language/types) (фундаментальные типы)&nbsp;— статья включает информацию про символьные типы: `char`, `signed char`, `unsigned char`, `wchar_t`, `char8_t` и так далее. В статье сказано, что по стандарту языка C++ размер значения типа `char` всегда равен 1 байту (в одном байте по стандарту языка C++ содержится _не менее_ 8 битов, то есть может быть ровно 8 битов или более);
 - [Character literal](https://en.cppreference.com/w/cpp/language/character_literal) (символьные литералы);
 - [Null-terminated multibyte strings](https://en.cppreference.com/w/cpp/string/multibyte) (строки с многобайтовыми символами, конец строки маркируется нулевым символом `'\0'`).
+
+## Опыты для начинающих
+
+При чтении сайта-учебника «[LearnCpp.com](https://www.learncpp.com)» я экспериментирую с вводом символов в кодировке UTF-8 из консоли и выводом их в консоль:
+
+- [04-053_printing-chars.cpp](chapters/chapter_04/lesson_04.11/04-053_printing-chars.cpp);
+- [04-054_inputting-chars.cpp](chapters/chapter_04/lesson_04.11/04-054_inputting-chars.cpp).
