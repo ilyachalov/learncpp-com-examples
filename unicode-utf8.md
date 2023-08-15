@@ -51,7 +51,7 @@
 - [04-053_printing-chars.cpp](chapters/chapter_04/lesson_04.11/04-053_printing-chars.cpp);
 - [04-054_inputting-chars.cpp](chapters/chapter_04/lesson_04.11/04-054_inputting-chars.cpp).
 
-Советы в комментариях к подглаве (уроку) 4.11 «[Chars](https://www.learncpp.com/cpp-tutorial/chars/)» учебника «LearnCpp.com» (получились довольно объемные и информативные, на английском):
+Мои советы в комментариях к подглаве (уроку) 4.11 «[Chars](https://www.learncpp.com/cpp-tutorial/chars/)» учебника «LearnCpp.com» (получились довольно объемные и информативные, на английском):
 
 - [как вывести в консоль строку в кодировке UTF-8 в программе на языке C++](https://www.learncpp.com/cpp-tutorial/chars/#comment-585558);
 - [об экспериментах с вводом из консоли и выводом символов в кодировке UTF-8](https://www.learncpp.com/cpp-tutorial/chars/#comment-585560).
