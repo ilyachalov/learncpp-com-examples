@@ -11,6 +11,6 @@
 - [Character sets and encodings](https://en.cppreference.com/w/cpp/language/charset) (наборы символов и кодировки);
 - [Escape sequences](https://en.cppreference.com/w/cpp/language/escape) (управляющие последовательности);
 - [ASCII Chart](https://en.cppreference.com/w/cpp/language/ascii) (таблица символов ASCII);
-- [Fundamental types](https://en.cppreference.com/w/cpp/language/types) (фундаментальные типы)&nbsp;— статья включает информацию про символьные типы: `char`, `signed char`, `unsigned char`, `wchar_t`, `char8_t` и так далее. В статье сказано, что по стандарту языка C++ размер значения типа `char` всегда равен 1 байту (в одном байте по стандарту языка C++ содержится _не менее_ 8 битов, но может быть более);
+- [Fundamental types](https://en.cppreference.com/w/cpp/language/types) (фундаментальные типы)&nbsp;— статья включает информацию про символьные типы: `char`, `signed char`, `unsigned char`, `wchar_t`, `char8_t` и так далее. В статье сказано, что по стандарту языка C++ размер значения типа `char` всегда равен 1 байту (в одном байте по стандарту языка C++ содержится _не менее_ 8 битов, то есть может быть ровно 8 битов или более);
 - [Character literal](https://en.cppreference.com/w/cpp/language/character_literal) (символьные литералы);
 - [Null-terminated multibyte strings](https://en.cppreference.com/w/cpp/string/multibyte) (строки с многобайтовыми символами, конец строки маркируется нулевым символом `'\0'`).
