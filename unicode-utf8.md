@@ -12,4 +12,4 @@
 - [Escape sequences](https://en.cppreference.com/w/cpp/language/escape) (управляющие последовательности);
 - [ASCII Chart](https://en.cppreference.com/w/cpp/language/ascii) (таблица символов ASCII);
 - [Fundamental types](https://en.cppreference.com/w/cpp/language/types) (фундаментальные типы) — статья включает информацию про символьные типы: `char`, `signed char`, `unsigned char`, `wchar_t`, `char8_t` и так далее;
-- 
+- [Character literal](https://en.cppreference.com/w/cpp/language/character_literal) (символьные литералы).
