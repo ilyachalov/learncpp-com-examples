@@ -8,6 +8,7 @@
 
 Статьи в списке ниже я расположил в том порядке, в котором (по моему мнению) их следует читать. Можно сказать, что ссылки на более важные статьи расположены в начале списка.
 
-С++ / С++ language (язык C++) / Basic Concepts (основные понятия) /
 - [Character sets and encodings](https://en.cppreference.com/w/cpp/language/charset) (наборы символов и кодировки);
+- [ASCII Chart](https://en.cppreference.com/w/cpp/language/ascii) (таблица символов ASCII);
 - [Fundamental types](https://en.cppreference.com/w/cpp/language/types) (фундаментальные типы) — статья включает информацию про символьные типы: `char`, `signed char`, `unsigned char`, `wchar_t`, `char8_t` и так далее;
+- 
