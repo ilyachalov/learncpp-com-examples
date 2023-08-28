@@ -70,10 +70,15 @@ _Язык программирования C++:_
 
 _Инструменты:_
 
-- [Руководство пользователя](https://gcc.gnu.org/onlinedocs/gcc/) к набору компиляторов GCC (GNU Compiler Collection);
-- [Документация на сайте компании «Microsoft»](https://learn.microsoft.com/en-us/cpp/) (инструменты, справочники, руководства и так далее) по языку C++;
-- [Документация редактора кода «Visual Studio Code»](https://code.visualstudio.com/docs);
-- [Справочник по счетаниям клавиш (для «Windows»)](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) редактора кода «Visual Studio Code» (в формате PDF).
+- Компилятор GCC (GNU Compiler Collection)
+  - [Руководство пользователя](https://gcc.gnu.org/onlinedocs/gcc/) к набору компиляторов GCC;
+
+- Компилятор MSVC
+  - [Документация на сайте компании «Microsoft»](https://learn.microsoft.com/en-us/cpp/) (инструменты, справочники, руководства и так далее) по языку C++;
+
+- Редактор кода «Visual Studio Code» (VS Code)
+  - [Документация редактора кода «Visual Studio Code»](https://code.visualstudio.com/docs);
+  - [Справочник по счетаниям клавиш (для «Windows»)](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) редактора кода «Visual Studio Code» (в формате PDF).
 
 _Для вопросов по программированию:_
 
