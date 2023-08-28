@@ -75,6 +75,7 @@ _Инструменты:_
 
 - Компилятор MSVC
   - [Документация на сайте компании «Microsoft»](https://learn.microsoft.com/en-us/cpp/) (инструменты, справочники, руководства и так далее) по языку C++;
+  - История релизов среды (IDE) «Visual Studio»: [2019](https://learn.microsoft.com/en-us/visualstudio/releases/2019/history), [2022](https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-history);
 
 - Редактор кода «Visual Studio Code» (VS Code)
   - [Документация редактора кода «Visual Studio Code»](https://code.visualstudio.com/docs);
