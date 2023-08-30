@@ -26,6 +26,13 @@ cl /EHsc /utf-8 /std:c++20 "program.cpp"
 ```
 g++ "program.cpp" -o "program" -std=c++20
 ```
+Для работы с черновыми нововведениями будущей версии C++23 стандарта я использую следующие команды:
+```
+cl /EHsc /utf-8 /std:c++latest "program.cpp"
+```
+```
+g++ "program.cpp" -o "program" -std=c++2b
+```
 
 ## Регулировка предупреждений, выдаваемых компиляторами
 
